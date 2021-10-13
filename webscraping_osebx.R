@@ -1,4 +1,3 @@
-#linker <- list()
 library(dplyr)
 library(RSelenium)
 library(stringr)
