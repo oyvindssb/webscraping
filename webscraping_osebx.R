@@ -2,7 +2,6 @@ library(dplyr)
 library(RSelenium)
 library(stringr)
 library(rvest)
-list.files()
 library(utils)
 library(lubridate)
 
